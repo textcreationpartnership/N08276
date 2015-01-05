@@ -118,8 +118,9 @@
       <body>
          <div type="proceedings">
             <head>
-               <pb facs="tcp:010564_0000_0F80BC428E5F4A70"/>
-               <pb facs="tcp:010564_0001_0F80BC43A1F538D8" rendition="simple:additions"/>
+               <pb facs="unknown:010564_0000_0F80BC428E5F4A70"/>
+               <pb facs="unknown:010564_0001_0F80BC43A1F538D8"
+                   rendition="simple:additions"/>
 At a Meeting of the Freeholders and other Inhabitants of the Town of <hi>Boſton,</hi> le<g ref="char:EOLhyphen"/>gally aſſembled at <hi>Faneuil</hi>-Hall, on Wed<g ref="char:EOLhyphen"/>neſday <date>the 28th of <hi>October,</hi> 1767.</date>
             </head>
             <p>THE Town then took into Conſideration the Petition of a Number of Inhabitants,
